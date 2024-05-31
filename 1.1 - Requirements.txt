@@ -1,0 +1,6 @@
+the system keeps track of contacts
+users can search through the contacts
+users can add contacts
+users can update contacts
+users can delete contacts
+users can merge duplicate contacts
